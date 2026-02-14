@@ -78,6 +78,6 @@ function handleNoClick() {
 }
 
 function handleYesClick() {
-    // This redirects the browser directly to the YouTube video URL
+    // This line redirects the browser directly to the YouTube video
     window.location.href = "https://youtu.be/Aq5WXmQQooo?si=YVrXSr5HZ-EjoMFb";
 }
